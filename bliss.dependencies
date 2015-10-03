@@ -1,0 +1,26 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "CyanogenMod/android_kernel_lge_v4xx",
+    "target_path": "kernel/lge/v4xx",
+    "revision":    "cm-12.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "CyanogenMod/android_device_lge_v4xx-common",
+    "target_path": "device/lge/v4xx-common",
+    "revision":    "cm-12.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "TheMuppets/proprietary_vendor_lge",
+    "target_path": "vendor/lge",
+    "revision":    "cm-12.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "CyanogenMod/android_hardware_qcom_fm",
+    "target_path": "hardware/qcom/fm",
+    "revision":    "cm-12.1"
+  }
+]
